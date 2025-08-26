@@ -3,7 +3,7 @@
 Interactive TouchDesigner + Replicate AI project for the **Bahamas Quiz** and related experiments.
 
 ## Folder Structure
-- **Assets/** – Backdrop graphics for the Bahamas quiz  
+- **Assets/** – Backdrop graphics for the Bahamas quiz and prompt.csv
 - **Backup/** – Backup TouchDesigner files  
 - **Capture/** – Input and output images from the Bahamas quiz and Replicate AI, named using RFID  
 - **MangoRoom/** – TEST files for the heat map  
